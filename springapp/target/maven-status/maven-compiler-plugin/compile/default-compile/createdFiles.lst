@@ -1,0 +1,4 @@
+com/example/springapp/SpringappApplication.class
+com/example/springapp/model/MenuItem.class
+com/example/springapp/controller/MenuController.class
+com/example/springapp/service/MenuService.class
